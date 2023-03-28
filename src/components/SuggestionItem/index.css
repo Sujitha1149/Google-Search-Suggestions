@@ -1,0 +1,13 @@
+.arrow-search {
+  height: 20px;
+}
+.suggestion-item-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ip-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
